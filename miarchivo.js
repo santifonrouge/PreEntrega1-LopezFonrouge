@@ -1,6 +1,6 @@
-// alert("Hola terrícola, soy Armen, el alien 👽")
-// alert("Bienvenido al juego de adivinar el número que elijo. Si acertás, te ganas un viaje a Marte")
-// alert("Es un número del 1 al 20 y tenes 2 intentos. ¿Estás listo?")
+alert("Hola terrícola, soy Armen, el alien 👽")
+alert("Bienvenido al juego de adivinar el número que elijo. Si acertás, te ganas un viaje a Marte")
+alert("Es un número del 1 al 20 y tenes 2 intentos. ¿Estás listo?")
 
 let numeroArmen = Math.floor(Math.random() * 20) + 1;
 console.log(numeroArmen);
